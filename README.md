@@ -1,5 +1,3 @@
 ### 👋
 
-:smile_cat:
-
-:purple_heart:
+:cat: :fries: :musical_note: :umbrella: :purple_heart: 
